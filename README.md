@@ -1,5 +1,5 @@
 # OmegaToken
 An ethereum ERC-20 Token.
 
-#License
+# License
 OmegaToken is released under the MIT License.
